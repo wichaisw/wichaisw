@@ -1,4 +1,4 @@
-Hi 👋 My name is Wichai Sawangpongkasame
+Wichai Sawangpongkasame
 ========================================
 
 Software Developer
