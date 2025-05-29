@@ -8,12 +8,14 @@ I believe that being a developer means committing to lifelong learning, and I'm 
 
 * 🌍  I'm based in Bangkok, Thailand
 * ✉️  You can contact me at [wichai.sw19@gmail.com](mailto:wichai.sw19@gmail.com)
-* 🧠  I'm learning Algorithms & Data Structures and Design Patterns
+* 🧠  I'm learning Algorithms & Data Structures, Design Patterns, and Domain-Driven Design
+* ☁️  I've solidified my cloud knowledge with the AWS Certified Solutions Architect – Associate
+
+<a target="_blank" href="https://www.credly.com/badges/ca22722f-d0a4-4e4d-babb-c9ed8f4f1250/public_url" data-share-badge-id="ca22722f-d0a4-4e4d-babb-c9ed8f4f1250" data-share-badge-host="https://www.credly.com"><img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="120" height="120" /></a>
 
 ### Skills
 
 <p align="left">
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /></a>
 <a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" /></a>
@@ -43,6 +45,7 @@ I believe that being a developer means committing to lifelong learning, and I'm 
 <a href="https://redis.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40" /></a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" /></a>
 <a href="https://unity.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40" /></a>
+<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" /></a>
 </p>
 
 
